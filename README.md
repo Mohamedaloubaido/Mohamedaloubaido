@@ -30,7 +30,7 @@ I build web products from interface to infrastructure, with a focus on TypeScrip
 
 **Stack:** React · TypeScript · Fastify · PostgreSQL · Prisma · Docker
 
-[Source code](https://github.com/Mohamedaloubaido/workgrid) · [Live UI](https://workgrid-web.vercel.app)
+[Source code](https://github.com/Mohamedaloubaido/workgrid) · [Frontend preview](https://workgrid-web.vercel.app)
 
 ---
 
@@ -60,7 +60,7 @@ A responsive employee management application with persistent client-side records
 
 ## Portfolio
 
-More product case studies and technical breakdowns are available in my [portfolio repository](https://github.com/Mohamedaloubaido/portfolio).
+More product case studies and technical breakdowns are available in my [portfolio](https://mohammed-portfolio-git-redesign-fullstack-portfolio-dev-talent.vercel.app) and [portfolio repository](https://github.com/Mohamedaloubaido/portfolio).
 
 ---
 
