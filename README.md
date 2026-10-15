@@ -60,7 +60,7 @@ A responsive employee management application with persistent client-side records
 
 ## Portfolio
 
-More product case studies and technical breakdowns are available in my [portfolio](https://mohammed-portfolio-git-redesign-fullstack-portfolio-dev-talent.vercel.app) and [portfolio repository](https://github.com/Mohamedaloubaido/portfolio).
+More product case studies and technical breakdowns are available in my [portfolio](https://mohammed-portfolio-gamma.vercel.app) and [portfolio repository](https://github.com/Mohamedaloubaido/portfolio).
 
 ---
 
